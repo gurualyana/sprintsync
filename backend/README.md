@@ -1,0 +1,1 @@
+Spring Boot backend will be initialized during Sprint 1
